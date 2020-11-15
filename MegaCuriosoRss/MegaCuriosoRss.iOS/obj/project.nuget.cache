@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Exc1rq+JYK9EcTan1ahq7L/A143Tu07Pj9drpRYpMzBL81EKnvNahVlR2ycYM3NYhgrpp9uyyjp7J/i6A85VYw==",
+  "dgSpecHash": "xgSc4icfuHY3/65kD4YTQZ4hNs50jk3u9N3Pq+J5DoDxll6dYwNInYks3EChBmoGOKemsi72/r6N7q32Y0F4Jw==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\MegaCuriosoRss\\MegaCuriosoRss\\MegaCuriosoRss.iOS\\MegaCuriosoRss.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.appcenter\\3.4.3\\microsoft.appcenter.3.4.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.3\\microsoft.appcenter.analytics.3.4.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.3\\microsoft.appcenter.crashes.3.4.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
   ],

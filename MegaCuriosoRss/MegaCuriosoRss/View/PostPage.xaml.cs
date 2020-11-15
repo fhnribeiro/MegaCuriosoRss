@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using MegaCuriosoRss.Model;
+using Microsoft.AppCenter.Crashes;
 using Xamarin.Forms;
 
 namespace MegaCuriosoRss.View
@@ -17,8 +18,20 @@ namespace MegaCuriosoRss.View
         {
             InitializeComponent();
             Xamarin.Forms.PlatformConfiguration.iOSSpecific.Page.SetUseSafeArea(this, true);
-
-            webView.Source = item.ItemLink;
+            try
+            {
+                throw(new Exception("Unable to load blog"));
+                webView.Source = item.ItemLink;
+            }
+            catch(Exception ex)
+            {
+                var properties = new Dictionary<string, string>
+                {
+                    {"Blog_post", $"{item.Title}"}
+                };
+                Crashes.TrackError(ex);
+            }
+            
         }
     }
 }

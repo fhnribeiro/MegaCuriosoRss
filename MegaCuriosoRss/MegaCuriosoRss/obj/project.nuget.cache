@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9GQQL2Hm2PAzjdhewSaW6vpAsndaOTHAcEuUJ7cd4ckSOx1ZYxcxIj5YVRkGJn1/H+zFkeUo0FulJZuR+ojJRw==",
+  "dgSpecHash": "OkLyP8A608R5bCUgh/WE0gIupZ+86lId4hE/VAQf4/t1WKYzFbOPZkI13R5RXrnC6XBEA4r8F0n1NwQeYk0qIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\MegaCuriosoRss\\MegaCuriosoRss\\MegaCuriosoRss\\MegaCuriosoRss.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.appcenter\\3.4.3\\microsoft.appcenter.3.4.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.appcenter.analytics\\3.4.3\\microsoft.appcenter.analytics.3.4.3.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.appcenter.crashes\\3.4.3\\microsoft.appcenter.crashes.3.4.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
